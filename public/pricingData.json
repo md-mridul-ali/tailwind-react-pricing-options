@@ -20,6 +20,7 @@
     "id": 2,
     "name": "Standard Plan",
     "price": "$49.99/month",
+    "popular":true,
     "billingCycle": "per month",
     "description": "Ideal for regular gym-goers who want classes, comfort, and flexibility.",
     "features": [
