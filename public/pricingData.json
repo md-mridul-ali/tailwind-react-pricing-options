@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 25,
+    "billingCycle": "per month",
+    "description": "Perfect for newcomers starting their fitness journey.",
+    "features": [
+      "Access to all basic gym equipment",
+      "Locker room and shower access",
+      "1 free personal training session",
+      "Open from 6 AM to 9 PM",
+      "Access to cardio zone",
+      "Free Wi-Fi access",
+      "Monthly fitness progress tracking"
+    ],
+    "highlight": false
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 45,
+    "billingCycle": "per month",
+    "description": "Ideal for regular gym-goers who want classes, comfort, and flexibility.",
+    "features": [
+      "24/7 gym access",
+      "Unlimited group classes (Zumba, Yoga, HIIT, CrossFit)",
+      "3 personal training sessions per month",
+      "Access to sauna and steam room",
+      "Free fitness assessment",
+      "Access to premium cardio & strength zones",
+      "Discounts on gym merchandise",
+      "Nutrition guidance (monthly check-in)",
+      "Locker with digital lock system",
+      "Guest pass once a month"
+    ],
+    "highlight": true
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 70,
+    "billingCycle": "per month",
+    "description": "Ultimate all-inclusive plan designed for total fitness and lifestyle enhancement.",
+    "features": [
+      "Unlimited 24/7 gym and class access",
+      "Unlimited group classes + VIP sessions",
+      "Dedicated personal trainer (weekly)",
+      "Monthly massage therapy session",
+      "Customized diet & meal plan",
+      "Body composition & progress tracking",
+      "Private locker with personal code",
+      "Access to lounge & recovery area",
+      "Priority support and booking",
+      "Invites to exclusive fitness events",
+      "Complimentary gym apparel set",
+      "Access to rooftop training area"
+    ],
+    "highlight": true
+  }
+]
