@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Basic Plan",
-    "price": 25,
+    "price": "$29.99/month",
     "billingCycle": "per month",
     "description": "Perfect for newcomers starting their fitness journey.",
     "features": [
@@ -19,7 +19,7 @@
   {
     "id": 2,
     "name": "Standard Plan",
-    "price": 45,
+    "price": "$49.99/month",
     "billingCycle": "per month",
     "description": "Ideal for regular gym-goers who want classes, comfort, and flexibility.",
     "features": [
@@ -39,7 +39,7 @@
   {
     "id": 3,
     "name": "Premium Plan",
-    "price": 70,
+    "price": "$99.99/month",
     "billingCycle": "per month",
     "description": "Ultimate all-inclusive plan designed for total fitness and lifestyle enhancement.",
     "features": [
